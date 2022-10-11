@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siya-pathak&label=Profile%20views&color=0e75b6&style=flat" alt="siya-pathak" /> </p>
 
-- 🌱 I’m currently practicing **Data Structures and Algorithms**
+- 🌱 I’m currently learning **React and C#**
+
+- 👯 I’m looking to collaborate on **Open source projects**
 
 - 📫 How to reach me **siya040604@gmail.com**
 
