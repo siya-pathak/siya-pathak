@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siya</h1>
+  <h1 align="center">Hi 👋, I'm Siya</h1>
 - 🌱 I’m currently learning **React and C#**
 
 - 👯 I’m looking to collaborate on **Open source projects**
