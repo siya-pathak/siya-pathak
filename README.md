@@ -20,8 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siya-pathak&show_icons=true&locale=en" alt="siya-pathak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siya-pathak&" alt="siya-pathak" /></p>
-[![Arunima's github activity graph](https://activity-graph.herokuapp.com/graph?username=tinniaru3005&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/siya-pathak">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siya-pathak&theme=radical&layout=compact&">
