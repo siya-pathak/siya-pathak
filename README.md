@@ -1,4 +1,8 @@
-<h1 align="center">hello! here's a little about me:</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=hello!;this+is+siya....;here's+a+little+about+me:&center=true&size=30">
+  </a>
+</h1>
 
 - 🌱 i’m currently learning **ReactJS**
 
