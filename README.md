@@ -29,7 +29,7 @@ tools, languages, and other things that i work/have worked with.
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
@@ -41,13 +41,13 @@ tools, languages, and other things that i work/have worked with.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
@@ -71,42 +71,42 @@ tools, languages, and other things that i work/have worked with.
     </td>
    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Bulma" />
       </a>
       <br>Bulma
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/sass-original.svg" width="48" height="48" alt="NodeJS" />
       </a>
-      <br>Sass
+      <br>NodeJS
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Express" />
       </a>
-      <br>Docker
+      <br>Express
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="MongoDB" />
       </a>
-      <br>Kubernetes
+      <br>MongoDB
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/debian-original.svg" width="48" height="48" alt="PHP" />
       </a>
-      <br>Debian
+      <br>PHP
     </td>
-    <td align="center"  width="96">
+<!--     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
       </a>
-      <br>RHEL
-    </td>
+      <br>MySQL
+    </td> -->
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
@@ -119,7 +119,7 @@ tools, languages, and other things that i work/have worked with.
       </a>
       <br>MySQL
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
       </a>
@@ -136,6 +136,6 @@ tools, languages, and other things that i work/have worked with.
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
       </a>
       <br>Thanos
-    </td>
+    </td> -->
   </tr>
 </table>
