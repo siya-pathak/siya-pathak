@@ -95,13 +95,13 @@ tools, languages, and other things that i work/have worked with.
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Express" />
+        <img src="https://commons.wikimedia.org/wiki/File:Expressjs.png#/media/File:Expressjs.png" width="48" height="48" alt="Express" />
       </a>
       <br>Express
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="MongoDB" />
+        <img src="https://commons.wikimedia.org/wiki/File:MongoDB_Logo.svg#/media/File:MongoDB_Logo.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
