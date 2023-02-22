@@ -134,12 +134,12 @@ tools, languages, and other things that i work/have worked with.
         <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
       </a>
       <br>Prometheus
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+        <img src="./img/git-scm-icon.svg" width="48" height="48" alt="git" />
       </a>
-      <br>Thanos
-    </td> -->
+      <br>Git
+    </td>
   </tr>
 </table>
