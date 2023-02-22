@@ -24,7 +24,7 @@
  
 <h1 align="center" id="macropower-tech">technologies and languages:</h2>
 
-Tools, languages, and other things that i practice.
+tools, languages, and other things that i practice.
 
 <table>
   <tr>
@@ -32,7 +32,7 @@ Tools, languages, and other things that i practice.
       <a href="#macropower-tech">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
