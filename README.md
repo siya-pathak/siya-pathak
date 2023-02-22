@@ -22,9 +22,9 @@
  -->
  
  
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h1 align="center" id="macropower-tech">technologies and languages:</h2>
 
-> Tools, languages, and other things that I like to work with.
+Tools, languages, and other things that i practice.
 
 <table>
   <tr>
