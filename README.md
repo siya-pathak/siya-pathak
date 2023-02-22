@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Siya</h1>
+ <h1 align="center">hello! here's a little about me:</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siya-pathak&label=Profile%20views&color=0e75b6&style=flat" alt="siya-pathak" /> </p>
 
 - 🌱 I’m currently learning **React**
