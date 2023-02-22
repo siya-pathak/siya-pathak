@@ -24,7 +24,7 @@
  
 <h1 align="center" id="macropower-tech">technologies and languages:</h2>
 
-tools, languages, and other things that i practice.
+tools, languages, and other things that i work/have worked with.
 
 <table>
   <tr>
@@ -42,21 +42,15 @@ tools, languages, and other things that i practice.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>Jsonnet
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -75,6 +69,12 @@ tools, languages, and other things that i practice.
         <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Bulma
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
