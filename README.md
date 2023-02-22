@@ -1,13 +1,13 @@
 <h1 align="center">hello! here's a little about me:</h1>
 
-- 🌱 I’m currently learning **React**
+- 🌱 i’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 i’m looking to collaborate on **open source projects**
 
-- 📫 How to reach me **siya040604@gmail.com**
+- 📫 how to reach me **siya040604@gmail.com**
 
 <h1 align="center">connect with me:</h1>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/supitssiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supitssiya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siya-pathak-20616922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siya-pathak-20616922a" height="30" width="40" /></a>
 </p>
