@@ -33,55 +33,55 @@ tools, languages, and other things that i work/have worked with.
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C++" />
+        <img src="./img/c.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/python-5.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="HTML" />
+        <img src="./img/html-1.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="CSS" />
+        <img src="./img/css-3.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/logo-javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="./img/react-2.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Bulma" />
+        <img src="./img/bulma.svg" width="48" height="48" alt="Bulma" />
       </a>
       <br>Bulma
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="NodeJS" />
+        <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <br>NodeJS
     </td>
@@ -101,7 +101,7 @@ tools, languages, and other things that i work/have worked with.
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="PHP" />
+        <img src="./img/php-1.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
@@ -119,7 +119,7 @@ tools, languages, and other things that i work/have worked with.
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="./img/mysql-6.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
