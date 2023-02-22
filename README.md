@@ -95,13 +95,13 @@ tools, languages, and other things that i work/have worked with.
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="Expressjs.png" width="48" height="48" alt="Express" />
+        <img src="./img/Expressjs.png" width="48" height="48" alt="Express" />
       </a>
       <br>Express
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="MongoDB_Logo.svg" width="48" height="48" alt="MongoDB" />
+        <img src="./img/MongoDB_Logo.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
