@@ -10,7 +10,6 @@
 <p align="left">
 <a href="https://twitter.com/supitssiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supitssiya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siya-pathak-20616922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siya-pathak-20616922a" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/siyahehe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siyahehe" height="30" width="40" /></a>
 </p>
 
 <h1 align="center">numbers:</h1>
