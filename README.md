@@ -31,6 +31,12 @@ tools, languages, and other things that i work/have worked with.
 
 <table>
   <tr>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/c-1.svg" width="48" height="48" alt="c" />
+      </a>
+      <br>C
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/c.svg" width="48" height="48" alt="C++" />
@@ -105,12 +111,6 @@ tools, languages, and other things that i work/have worked with.
       </a>
       <br>PHP
     </td>
-<!--     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>MySQL
-    </td> -->
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
