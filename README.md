@@ -141,5 +141,11 @@ tools, languages, and other things that i work/have worked with.
       </a>
       <br>Git
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/ejs-apps.jpeg" width="48" height="48" alt="EJS" />
+      </a>
+      <br>EJS
+    </td>
   </tr>
 </table>
