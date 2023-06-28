@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-- 🌱 i’m currently learning **ReactJS**
 
 - 👯 i’m looking to collaborate on **open source projects**
 
