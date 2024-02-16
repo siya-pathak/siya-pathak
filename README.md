@@ -20,7 +20,7 @@
 
 
 [![Siya's GitHub stats](https://github-readme-stats.vercel.app/api?username=siya-pathak&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
-[![Siya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=siya-pathak)](https://github.com/anuraghazra/github-readme-stats)
+[![Siya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=siya-pathak&count_private=true&show_icons=true&theme=moltack)]
  
 <h1 align="center" id="macropower-tech">technologies and languages:</h2>
 
