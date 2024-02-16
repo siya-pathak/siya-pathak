@@ -5,7 +5,7 @@
 </h1>
 
 
-- 👯 i’m looking to collaborate on **open source projects**
+- 👯 i’m currently exploring **natural language processing and LLMs**
 
 - 📫 how to reach me **siya040604@gmail.com**
 
